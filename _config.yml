@@ -59,5 +59,10 @@ include: []
 exclude: []
 ignore: null
 theme: icarus
+plugins: 
+  - hexo-math
 deploy:
   type: ''
+math:
+  mathjax:
+    enable: true
