@@ -2,7 +2,6 @@
 title: "Mastering LLM Techniques: Inference Optimization"
 date: 2025-01-09 15:59:41
 tags:
-mathjax: true
 ---
 
 - [Mastering LLM Techniques: Inference Optimization](#mastering-llm-techniques-inference-optimization)
