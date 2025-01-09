@@ -142,9 +142,9 @@ article:
         # Default folding status of the code blocks. Can be "", "folded", "unfolded"
         fold: unfolded
     # Whether to show estimated article reading time
-    readtime: true
+    readtime: false
     # Whether to show updated time. For "auto", shows article update time only when page.updated is set and it is different from page.date
-    update_time: true
+    update_time: false
     # Article licensing block
     licenses:
         Creative Commons:
@@ -229,11 +229,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Ronald Li
         # Author title
-        author_title: Your title
+        author_title: Software Engneer
         # Author's current location
-        location: Your location
+        location: Shenzhen China
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
@@ -246,7 +246,7 @@ widgets:
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ppoffice
+                url: https://github.com/unship
             Facebook:
                 icon: fab fa-facebook
                 url: https://facebook.com
